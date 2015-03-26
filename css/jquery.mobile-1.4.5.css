@@ -1102,8 +1102,8 @@ html body .ui-group-theme-b .ui-bar-inherit {
 	background-color: 			#1d1d1d /*{b-bar-background-color}*/;
 	border-color:	 		#1b1b1b /*{b-bar-border}*/;
 	color: 					#fff /*{b-bar-color}*/;
-	text-shadow: 0 /*{b-bar-shadow-x}*/ 1px /*{b-bar-shadow-y}*/ 0 /*{b-bar-shadow-radius}*/ 	#111 /*{b-bar-shadow-color}*/;
-	font-weight: bold;
+	text-shadow: none !important;
+	font-weight: normal;
 }
 .ui-bar-b {
 	border-width: 1px;
